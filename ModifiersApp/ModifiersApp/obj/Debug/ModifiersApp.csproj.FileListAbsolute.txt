@@ -1,0 +1,6 @@
+E:\P509\C#\ModifiersApp\ModifiersApp\bin\Debug\ModifiersApp.exe.config
+E:\P509\C#\ModifiersApp\ModifiersApp\bin\Debug\ModifiersApp.exe
+E:\P509\C#\ModifiersApp\ModifiersApp\bin\Debug\ModifiersApp.pdb
+E:\P509\C#\ModifiersApp\ModifiersApp\obj\Debug\ModifiersApp.csprojAssemblyReference.cache
+E:\P509\C#\ModifiersApp\ModifiersApp\obj\Debug\ModifiersApp.exe
+E:\P509\C#\ModifiersApp\ModifiersApp\obj\Debug\ModifiersApp.pdb

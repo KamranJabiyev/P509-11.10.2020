@@ -1,0 +1,6 @@
+E:\P509\C#\AbstrackApp\AbstrackApp\bin\Debug\AbstrackApp.exe.config
+E:\P509\C#\AbstrackApp\AbstrackApp\bin\Debug\AbstrackApp.exe
+E:\P509\C#\AbstrackApp\AbstrackApp\bin\Debug\AbstrackApp.pdb
+E:\P509\C#\AbstrackApp\AbstrackApp\obj\Debug\AbstrackApp.csprojAssemblyReference.cache
+E:\P509\C#\AbstrackApp\AbstrackApp\obj\Debug\AbstrackApp.exe
+E:\P509\C#\AbstrackApp\AbstrackApp\obj\Debug\AbstrackApp.pdb

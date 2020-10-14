@@ -1,0 +1,6 @@
+E:\P509\C#\AbstrackApp\AcademyTask\bin\Debug\AcademyTask.exe.config
+E:\P509\C#\AbstrackApp\AcademyTask\bin\Debug\AcademyTask.exe
+E:\P509\C#\AbstrackApp\AcademyTask\bin\Debug\AcademyTask.pdb
+E:\P509\C#\AbstrackApp\AcademyTask\obj\Debug\AcademyTask.csprojAssemblyReference.cache
+E:\P509\C#\AbstrackApp\AcademyTask\obj\Debug\AcademyTask.exe
+E:\P509\C#\AbstrackApp\AcademyTask\obj\Debug\AcademyTask.pdb
